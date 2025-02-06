@@ -12,9 +12,9 @@
     "@aws-sdk/client-s3": "^3.741.0",
     "@aws-sdk/credential-provider-ini": "^3.741.0",
     "next": "15.1.6",
-    "papaparse": "^5.5.2",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-papaparse": "^4.4.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -23,6 +23,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "15.1.6",
+    "papaparse": "^5.5.2",
     "typescript": "^5"
   }
 }
